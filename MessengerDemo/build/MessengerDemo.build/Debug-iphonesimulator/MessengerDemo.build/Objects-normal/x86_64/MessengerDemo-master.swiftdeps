@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "441883c4a947a34b5919f94a0f88176b"
+build_time: [1511036552, 853636000]
+inputs:
+  "/Users/Vidyadhar/Desktop/Github/Messenger-iOS-Swift/MessengerDemo/MessengerDemo/ViewController.swift": [1511036427, 0]
+  "/Users/Vidyadhar/Desktop/Github/Messenger-iOS-Swift/MessengerDemo/MessengerDemo/MessageViewController.swift": [1511036548, 0]
+  "/Users/Vidyadhar/Desktop/Github/Messenger-iOS-Swift/MessengerDemo/MessengerDemo/AppDelegate.swift": [1511035976, 0]
